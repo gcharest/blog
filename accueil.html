@@ -1,0 +1,37 @@
+---
+layout: home
+ref: index
+lang: fr
+---
+
+<div>
+    <h2>Pages</h2>
+
+    <ul>
+        {% assign pages=site.pages | where:"lang", page.lang %}
+        {% for page in pages %}
+        <li>
+            <span>{{ page.date | date: "%b %-d, %Y" }} </span>
+            <h2>
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <h2>Articles</h2>
+
+    <ul>
+        {% assign posts=site.posts | where:"lang", page.lang %}
+        {% for post in posts %}
+        <li>
+            <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
