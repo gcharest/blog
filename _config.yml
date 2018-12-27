@@ -10,7 +10,7 @@ description: >-
     Ce blog contient des informations recueillies auprès de sources variées ainsi que des observations. Sujets principaux: programmation, logiciels libres, diabète.
 
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gcharest.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GuillCharest
 github_username:  gcharest
 
