@@ -4,6 +4,12 @@ title:  Facteur glycémique de recettes
 ref: diabete
 lang: fr
 ---
+> Dans cette page
+* [Méthode](#méthode)
+* [Recettes fréquentes](#recettes-fréquentes)
+
+## Méthode
+
 Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
 La méthode pour calculer le facteur est la suivante:
@@ -15,6 +21,6 @@ La méthode pour calculer le facteur est la suivante:
 
 ## Recettes fréquentes
 
-| Recette | Facteur Glycémique Approx. | Auteur |Source |
-|---|:---:|:---|:---|
-|Mijoté de boeuf à la bière|0,069|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)|
+| Recette | Facteur Glycémique Approx. | Auteur |Source | Notes |
+|---|:---:|:---|:---|:---|
+|Mijoté de boeuf à la bière|0,069|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)|Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup!|
