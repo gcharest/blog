@@ -1,7 +1,6 @@
 ---
 layout: page
 title: À propos
-permalink: /apropos.html
 ---
 
 Ce site est conçu dans le but de rassembler diverses informations et de les rendre rapidement utilisables.

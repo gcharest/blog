@@ -1,12 +1,10 @@
 ---
 layout: page
-title:  "Facteur glycémique de recettes"
-date:   2018-12-16 14:21:56 -0500
+title:  Facteur glycémique de recettes
 ref: diabete
-permalink: /facteurs-recettes.html
 lang: fr
 ---
-Voici une liste de recettes que nous faisons fréquemment avec l'indice glycémique approximatif.
+Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
 La méthode pour calculer le facteur est la suivante:
 * Si la valeur nutritionnelle est fournie, on calcul le total de glucides pour l'ensemble de la recette

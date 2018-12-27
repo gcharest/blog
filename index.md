@@ -4,12 +4,12 @@
 
 layout: home
 ---
-
+<!--
 <div>
 
     <h1>Ressources</h1>
 
-        {% assign pages=site.pages | where:"lang", page.lang %}
+        {% assign pages=site.pages %}
         {% for page in pages %}
             <h3>
                 <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
@@ -17,3 +17,4 @@ layout: home
         {% endfor %}
 
 </div>
+-->
