@@ -10,6 +10,6 @@ J'y ajouterai des billets basés sur mes observations liées au diabète, aux lo
 
 Mon parcours:
 
-Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernment pendant plus de 10 ans ainsi que pour des petites entreprises et des organismes à but non lucratif. Je crois que les TI peuvent permettre de réduire le coût lié 
+Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernment pendant plus de 10 ans ainsi que pour des petites entreprises et des organismes à but non lucratif.
 
 ~ Guillaume
