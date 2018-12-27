@@ -3,6 +3,7 @@ layout: page
 title:  "Facteur glycémique de recettes"
 date:   2018-12-16 14:21:56 -0500
 ref: diabete
+permalink: facteurs-recettes.html
 lang: fr
 ---
 Voici une liste de recettes que nous faisons fréquemment avec l'indice glycémique approximatif.
