@@ -5,9 +5,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Simple Blog
+title: Guillaume Charest
 description: >- # this means to ignore newlines until "baseurl:"
-    Ce blogue est né sur l'inspiration du moment et se veut un endroit où déposer mes idées sur le vif. J'y ajouterai des observations et notes sur des logiciels libres ainsi que de l'information reliée au diabète de type 1.
+    Ce blog contient des informations recueillies auprès de sources variées ainsi que des observations. Sujets principaux: programmation, logiciels libres, diabète.
 index:
   en: index.html
   fr: accueil.html

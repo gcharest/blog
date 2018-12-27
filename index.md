@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+lang: fr
 ---
 
 <div>
+
     <h2>Pages</h2>
 
 
@@ -15,6 +17,5 @@ layout: home
                 <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             </h3>
         {% endfor %}
-
 
 </div>
