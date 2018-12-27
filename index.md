@@ -9,7 +9,6 @@ layout: home
 
     <h1>Ressources</h1>
 
-
         {% assign pages=site.pages | where:"lang", page.lang %}
         {% for page in pages %}
             <h3>
