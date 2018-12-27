@@ -4,15 +4,12 @@ title: À propos
 permalink: /apropos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ce site est conçu dans le but de rassembler diverses informations et de les rendre rapidement utilisables.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+J'y ajouterai des billets basés sur mes observations liées au diabète, aux logiciels libres et aux différents projets que considère intéressants.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Mon parcours:
 
+Je suis un professionnel des technologies de l'information (TI) qui a travaillé pour le gouvernment pendant plus de 10 ans ainsi que pour des petites entreprises et des organismes à but non lucratif. Je crois que les TI peuvent permettre de réduire le coût lié 
 
-[jekyll-organization]: https://github.com/jekyll
+~ Guillaume

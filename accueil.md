@@ -3,7 +3,3 @@ layout: home
 ref: index
 lang: fr
 ---
-
-# Liens
-
-Voici mes liens

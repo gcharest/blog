@@ -6,10 +6,10 @@
 
 # Site settings
 title: Guillaume Charest
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
     Ce blog contient des informations recueillies auprès de sources variées ainsi que des observations. Sujets principaux: programmation, logiciels libres, diabète.
 index:
-  en: index.html
+  en: 
   fr: accueil.html
 language:
   en: English
@@ -18,7 +18,7 @@ home:
   en: Home
   fr: Accueil
 home_link:
-  en: index.html
+  en:
   fr: accueil.html
 about:
   en: About
@@ -26,8 +26,8 @@ about:
 about_link:
   en: about.html
   fr: apropos.html
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "gcharest.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GuillCharest
 github_username:  gcharest
 
