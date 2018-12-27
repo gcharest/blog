@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<!--
+
 <div>
 
     <h2>Pages</h2>
@@ -18,4 +18,3 @@ layout: home
         {% endfor %}
 
 </div>
--->
