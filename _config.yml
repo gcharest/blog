@@ -8,26 +8,9 @@
 title: Guillaume Charest
 description: >-
     Ce blog contient des informations recueillies auprès de sources variées ainsi que des observations. Sujets principaux: programmation, logiciels libres, diabète.
-index:
-  en: 
-  fr: accueil.html
-language:
-  en: English
-  fr: Français
-home:
-  en: Home
-  fr: Accueil
-home_link:
-  en:
-  fr: accueil.html
-about:
-  en: About
-  fr: À propos
-about_link:
-  en: about.html
-  fr: apropos.html
+
 baseurl: ""
-url: "gcharest.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GuillCharest
 github_username:  gcharest
 
