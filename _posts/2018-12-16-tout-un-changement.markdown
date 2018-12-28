@@ -13,11 +13,11 @@ Nous avons reçu la nouvelle avec émotion mais également, je crois, résilienc
 
 De plus, je nous compte chanceux d'être dans une société dite avancée mais je garde toujours à l'esprit que nous sommes dépendant d'une industrie privée pour le développement de l'insuline dont mon fils a maintenant besoin pour vivre. Mon parcours académique et professionnel m'amène ici à rester vigileant.
 
-Il y a également beaucoup de mythes et de croyances autour du diabète et ce n'est pas mon intention de démystifier tout cela ici. Néanmoins, je tiens à clarifier au moins une chose:
+Il y a également beaucoup de mythes et de croyances autour du diabète et ce n'est pas mon intention de démystifier tout cela ici. Pour plus d'informations, voir le site de Diabète Québec dans la section [mythes et statistiques](https://www.diabete.qc.ca/fr/comprendre-le-diabete/tout-sur-le-diabete/mythes-et-statistiques) Néanmoins, je tiens à clarifier au moins une chose:
 
 > **Non**, il n'est pas possible de gérer un diabète de type 1 seulement en "mangeant bien", il faut un traitement d'insuline géré par une équipe médicale compétente.
 
-Il y a plusieurs formes de diabète et s'improviser spécialiste peut être **très** dangereux pour la personne affectée. Consultez toujours votre équipe médicale avant de prendre des décisions basées sur des informations trouvées sur le web.
+Il y a plusieurs formes de diabète et s'improviser spécialiste peut être **très** dangereux pour la personne affectée (voir la section [complications](https://www.diabete.qc.ca/fr/comprendre-le-diabete/tout-sur-le-diabete/complications) sur le site de Diabète Québec). Consultez toujours votre équipe médicale avant de prendre des décisions basées sur des informations trouvées sur le web.
 
 ## Changement de routine
 
