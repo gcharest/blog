@@ -3,9 +3,7 @@ layout: page
 title: À propos
 ---
 
-Ce site est conçu dans le but de rassembler diverses informations et de les rendre rapidement utilisables.
-
-J'y ajouterai des billets basés sur mes observations liées au diabète, aux logiciels libres et aux différents projets que considère intéressants.
+J'ai conçu ce site dans le but de rassembler diverses informations utiles pour la gestion du diabète de type 1 et de les rendre rapidement utilisables. J'y tiendrai également une liste des projets de logiciels libres qui semblent intéressants.
 
 Mon parcours:
 
