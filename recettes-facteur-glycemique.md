@@ -30,7 +30,7 @@ Le guide offert sur Diabète Québec permet de bien comprendre les nuances qui e
 ----
 Par exemple, pour l'ingrédient fictif ici-bas, on peut identifier les informations suivantes:
 
-![Exemple de tableau des valeurs nutritives.](/assets/tableau-valeur-nutritive.png)
+![Exemple de tableau des valeurs nutritives.](/assets/images/tableau-valeur-nutritive.png)
 
 Source: Calcul des glucides avancé, Diabète Québec
 
