@@ -24,3 +24,4 @@ La méthode pour calculer le facteur est la suivante:
 | Recette | Facteur Glycémique Approx. | Auteur |Source | Notes |
 |---|:---:|:---|:---|:---|
 |Mijoté de boeuf à la bière|0,069|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)|Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup!|
+|Pâté chinois réinventé|0,1031|Geneviève O’Gleman|[Page Web](http://cuisinefuteeparentspresses.telequebec.tv/recettes/22/pate-chinois-reinvente)|Recette intéressante et pouvant être congelée.|
