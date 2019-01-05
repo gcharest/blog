@@ -9,7 +9,7 @@ lang: fr
 
 Novembre 2018, le diagostic tombe: mon fils de 8 ans a le diabète de type 1.
 
-Nous avons reçu la nouvelle avec émotion mais également, je crois, résilience. C'est difficile de voir son enfant affecté par une maladie qui prend le contrôle sur sa vie. Même s'il s'agit d'une condition relativement bien contrôlée, les effets de la maladie peuvent être grave si laissés sans surveillance.
+Nous avons reçu la nouvelle avec émotion mais également, je crois, résilience. C'est difficile de voir son enfant affecté par une maladie qui prend le contrôle sur sa vie. Même s'il s'agit d'une condition relativement bien gérée, les effets de la maladie peuvent être graves si laissée sans surveillance.
 
 De plus, je nous compte chanceux d'être dans une société dite avancée mais je garde toujours à l'esprit que nous sommes dépendant d'une industrie privée pour le développement de l'insuline dont mon fils a maintenant besoin pour vivre. Mon parcours académique et professionnel m'amène ici à rester vigileant.
 
