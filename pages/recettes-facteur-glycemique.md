@@ -7,6 +7,7 @@ lang: fr
 > Dans cette page
 * [Méthode](#méthode)
 * [Recettes fréquentes](#recettes-fréquentes)
+* [Recettes génériques](#recettes-génériques)
 
 Le facteur glycémique d'une recette consiste à calculer la quantité totale de sucre de chaque ingrédient consistant le plat cuisiné et d'identifier le facteur de sucre dans un gramme de la recette terminée.
 
@@ -30,7 +31,7 @@ Le guide offert sur Diabète Québec permet de bien comprendre les nuances qui e
 ----
 Par exemple, pour l'ingrédient fictif ici-bas, on peut identifier les informations suivantes:
 
-![Exemple de tableau des valeurs nutritives.](/assets/images/tableau-valeur-nutritive.png)
+![Exemple de tableau des valeurs nutritives.](../assets/images/tableau-valeur-nutritive.png)
 
 Source: Calcul des glucides avancé, Diabète Québec
 
@@ -72,3 +73,11 @@ Voici une liste de recettes que nous faisons fréquemment à la maison avec le c
 |Pâté chinois réinventé|0,1031|Geneviève O’Gleman|[Page Web](http://cuisinefuteeparentspresses.telequebec.tv/recettes/22/pate-chinois-reinvente)|Recette intéressante et pouvant être congelée.|
 
 *Auteur présumé
+
+## Recettes génériques
+
+Les recettes listées ici-bas sont tirées des guides listés dans les diverses pages (références à venir).
+Il s'agit de recettes génériques (ex.: boeuf en sauce) permettant une approximation du facteur glymique afin de sauver du temps.
+À force de calculer les différentes recettes, on peut s'apercevoir que les facteurs listés ici sont en effet assez proches de la réalité.
+
+(Tableau à venir)
