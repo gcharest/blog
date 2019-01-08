@@ -27,7 +27,7 @@ about_link:
   en: about.html
   fr: apropos.html
 baseurl: "/blog"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gcharest.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Guillaume Charest
 twitter_username: GuillCharest
 github_username:  gcharest
