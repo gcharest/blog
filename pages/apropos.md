@@ -18,3 +18,7 @@ Je suis un professionnel des technologies de l'information (TI) qui a travaillé
 Depuis mes tous débuts, je partage mon enthousiasme pour les logiciels libres avec mes différentes équipes et mes clients.
 
 ~ Guillaume
+
+<!---->
+
+{%- include licence.html -%}
