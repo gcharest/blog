@@ -9,7 +9,7 @@ Lorsque l'on met des ressources en ligne, l'objectif final est, à mon humble av
 
 Au cours des dernières semaines, j'ai passé un bon bout de temps à naviguer les sites spécialisés sur le diabète afin de trouver de l'information qui pourrait nous aider au quotidien.
 
-Hors, au quotidien, il arrive que l'accès à un ordinateur de bureau ne soit pas l'outil par lequel on recherche sur le Web.
+Or, au quotidien, il arrive que l'accès à un ordinateur de bureau ne soit pas l'outil par lequel on recherche sur le Web.
 En effet, si on regarde quelques sites spécialisés dans le marketing, on constate que le support sur lequel les gens naviguent a sérieusement changé au cours des 10 dernières années:
 
 * [Les chiffres du numérique au Canada en 2017](https://www.kabane.ca/chiffres-numerique-canada-2017), Kabane, agence marketing.
