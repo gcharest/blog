@@ -6,7 +6,7 @@ lang: fr
 ---
 
 > Dans cette page
-* [Outils](ta#outils)
+* [Outils](#outils)
 * [Diabète](#diabète)
 * [Nutrition](#nutrition)
 
@@ -16,17 +16,19 @@ J'ai mis en place quelques petits outils et canevas afin de faciliter le suivi d
 
 ### Canevas
 
-Voici un canevas imprimable pour calculer la dose d'insuline au repas du midi. J'ai conçu celui-ci afin de rendre le travail le plus simple possible pour les personnes accompagnant mon fils à l'école.
+Voici un canevas pour calculer la dose d'insuline au repas du midi. J'ai conçu celui-ci afin de rendre le travail le plus simple possible pour les personnes accompagnant mon fils à l'école.
 
-**[Canevas imprimable](../assets/docs/Canevas-Insuline.pdf)**
+On l'imprime, remplit les cases grises avec le traitement d'insuline spécifique à l'enfant et on l'inclut dans la boîte à lunch.
 
-><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Canevas Insuline</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/gcharest" property="cc:attributionName" rel="cc:attributionURL">Guillaume Charest</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Paternité - Partage des Conditions Initiales à l&#39;Identique 4.0 International</a>.
+L'adulte responsable de l'accompagnement de l'enfant à l'école remplira les cases blanches afin de mesurer la bonne dose d'insuline et peut même retourner le papier remplis pour que les parents puissent le consulter.
 
-Voici une présentation expliquant comment utiliser le canevas pour le calcul de l'insuline:
+![Canevas pour l'insuline](../assets/images/canevas-image-small.png)
+
+**[Version imprimable du canevas](../assets/docs/Canevas-Insuline.pdf)**
+
+Voici une courte présentation en version imprimable expliquant comment utiliser le canevas pour le calcul de l'insuline:
 
 **[Présentation du Calcul d'insuline](../assets/docs/Calcul-Insuline.pdf)**
-
-><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Calcul Insuline</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/gcharest" property="cc:attributionName" rel="cc:attributionURL">Guillaume Charest</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Paternité - Partage des Conditions Initiales à l&#39;Identique 4.0 International</a>.
 
 ### Outils
 
