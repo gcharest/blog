@@ -5,7 +5,7 @@
 layout: home
 ---
 Ce blog a été créé afin de recueillir des informations utiles à la gestion du diabète de type 1 ainsi qu'à mettre en lumière comment des logiciels libres peuvent aider à faciliter la vie des personnes diabétiques.
->**Important:** Je n'ai pas de formation médicale. Les informations recueillient ici proviennent de sources que je considère fiables mais j'encourage toute personne intéressée par le sujet à consulter son équipe médicale avant de suivre les informations trouvées sur ce site Web.
+>**Important:** Je n'ai pas de formation médicale. Les informations recueillies ici proviennent de sources que je considère fiables mais j'encourage toute personne intéressée par le sujet à consulter son équipe médicale avant de suivre les informations trouvées sur ce site Web.
 
 {%- if site.pages.size > 0 -%}
 <!---->
