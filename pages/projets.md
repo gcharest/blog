@@ -38,7 +38,7 @@ Voici une courte présentation en version imprimable expliquant comment utiliser
 
 Voici des projets que j'ai trouvés intéressants et qui semblent avoir une approche pertinente pour encadrer le diabète de type 1.
 
-À noter que la plupart des projets ne sont qu'en anglais. De plus, ceux que j'ai trouvé jusqu'à présent sont principalement des outils de suivi et non pas conçu pour mieux planifier/anticiper le traitement en fonction de la diète ou des activités.
+À noter que la plupart des projets ne sont qu'en anglais. De plus, ceux que j'ai trouvés jusqu'à présent sont principalement des outils de suivi et non pas conçu pour mieux planifier/anticiper le traitement en fonction de la diète ou des activités.
 
 * [OpenAPS](https://openaps.org/)
   * Le Open Artificial Pancreas System project (#OpenAPS) est un projet de logiciel libre visant à développer un design de référence pour un "système pancréatique artificiel", soit une pompe à insuline avec un capteur analysant le taux de glycémie et un algorithme permettant un ajustement sécuritaire simulant le pancréas d'une personne n'étant pas atteinte du diabète.
