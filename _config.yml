@@ -7,7 +7,7 @@
 # Site settings
 title: Diabète et Logiciels libres
 description: >-
-    Ce blog contient des informations recueillies auprès de sources variées ainsi que des observations. Sujets principaux: programmation, logiciels libres, diabète.
+    Ce petit site contient des informations recueillies auprès de sources variées ainsi que des observations personnelles sous forme de billets. Sujets principaux: diabète, logiciels libres, outils divers.
 index:
   en:
   fr: index.html
@@ -40,6 +40,11 @@ theme: minima
 #theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+
+header_pages:
+  - pages/projets.md
+  - pages/recettes-facteur-glycemique.md
+  - pages/apropos.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
