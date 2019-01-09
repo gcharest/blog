@@ -15,10 +15,11 @@ En effet, si on regarde quelques sites spécialisés dans le marketing, on const
 * [Les chiffres du numérique au Canada en 2017](https://www.kabane.ca/chiffres-numerique-canada-2017), Kabane, agence marketing.
 * [Mobile vs Desktop Usage in 2018: Mobile takes the lead](https://www.stonetemple.com/mobile-vs-desktop-usage-study/), Stone Temple, Digital Marketing.
 
-Avant même de considérer les personnes ayant un handicap et ayant des besoins spécifiques pour l'accessibilité des sites Web, je dois dire que le fait d'accéder à des fichiers PDF m'horripile...
+Avant même de considérer l'accessibilité comme un besoin pour les personnes ayant un handicap ou des besoins spécifiques, il faut voir l'accessibilité comme la possibilité pour toutes personnes à utiliser le service ou à consulter l'information. 
+Je dois dire que le fait d'accéder à des fichiers PDF pour consulter de l'information m'horripile si ce n'était pas l'intention de l'imprimer.
 
-Bref, je vais m'efforcer de non seulement rendre les informations facilement accessibles sur différents types d'appareils lorsque vous consultez ce site, je vais m'assurer que les données brutes peuvent être lues également par les machines.
-Ce dernier point est important principalement pour les personnes qui voudraient développer une application.
+Je vais donc m'efforcer de non seulement rendre les informations facilement accessibles sur différents types d'appareils lorsque vous consultez ce site, mais je vais m'assurer que les données brutes peuvent être lues également par les machines.
+Ce dernier point est important principalement pour les personnes qui voudraient développer une application ou encore pour les personnes qui doivent utiliser des interfaces particulières pour accéder à l'information.
 
 En enregistrant les données sous des formats accessibles par les ordinateurs, il est possible de facilement réutiliser les données afin de mieux afficher l'information ou encore développer des applications pouvant être utiles au quotidien.
 
