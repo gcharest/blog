@@ -21,7 +21,7 @@ Par exemple, si vous changez la quantité d'un ingrédient quand vous cuisinez u
 
 À la base, la méthode est relativement simple:
 
-* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisés et diviser par le poids total de la recette produite.
+* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisé et diviser par le poids total de la recette produite.
 
 **Mais comment calculer la quantité totale de sucre dans la recette?**
 
