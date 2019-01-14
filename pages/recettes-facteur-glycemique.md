@@ -67,6 +67,8 @@ Pas étonnant qu'on ne veuille pas faire l'exercice à chaque fois et c'est éga
 
 Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
+>**Note**: Les facteurs glycémiques ici-bas sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes. Ils sont donc offerts sans garanties d'exactitude.
+
 | Recette | Facteur Glycémique Approximatif | Auteur* |Source | Notes |
 |---|:---:|:---|:---|:---|
 |Mijoté de boeuf à la bière|0,069|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)|Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup!|
