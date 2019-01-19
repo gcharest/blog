@@ -21,7 +21,7 @@ Par exemple, si vous changez la quantité d'un ingrédient quand vous cuisinez u
 
 À la base, la méthode est relativement simple:
 
-* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisés et diviser par le poids total de la recette produite.
+* Il faut calculer la quantité totale de sucre dans chaque ingrédient utilisé et diviser par le poids total de la recette produite.
 
 **Mais comment calculer la quantité totale de sucre dans la recette?**
 
@@ -67,8 +67,7 @@ Pas étonnant qu'on ne veuille pas faire l'exercice à chaque fois et c'est éga
 
 Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
->Attention: Ces calculs sont fournies sans garanties d'exactitude. 
-Je vous suggère de tester une première fois le calcul des recettes et si vous obtenez la même valeur de vous référer au tableau.
+>**Attention**: Les facteurs glycémiques ici-bas sont approximatifs et peuvent varier en fonction des quantités utilisées pour les recettes. Ils sont donc offerts sans garanties d'exactitude.
 
 | Recette | Facteur Glycémique Approximatif | Auteur* |Source | Notes |
 |---|:---:|:---|:---|:---|
