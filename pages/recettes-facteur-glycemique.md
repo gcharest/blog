@@ -47,7 +47,7 @@ Pour savoir combien de sucre il y a dans la portion utilisée dans la recette, o
 
 Par exemple, si on avait 200 g de l'ingrédient fictif ici-haut, la quantité de sucre serait de 200 g * 0,1839, soit **36,7816 g de sucre**.
 
----
+----
 
 Lorsque les ingrédients ne contiennent que les valeurs en millilitre ou en tasse à mesurer, il faut faire un peu plus de calculs mais le principe reste le même.
 
@@ -67,10 +67,15 @@ Pas étonnant qu'on ne veuille pas faire l'exercice à chaque fois et c'est éga
 
 Voici une liste de recettes que nous faisons fréquemment à la maison avec le calcul approximatif de l'indice glycémique.
 
+>Attention: Ces calculs sont fournies sans garanties d'exactitude. 
+Je vous suggère de tester une première fois le calcul des recettes et si vous obtenez la même valeur de vous référer au tableau.
+
 | Recette | Facteur Glycémique Approximatif | Auteur* |Source | Notes |
 |---|:---:|:---|:---|:---|
 |Mijoté de boeuf à la bière|0,069|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5056-mijote-de-boeuf-a-la-biere)|Il s'agit d'une recette relativement simple à faire et que les enfants aiment beaucoup!|
+|Poulet à l'ananas à la mijoteuse|0,07|Ricardo Larrivée|[Page Web](https://www.ricardocuisine.com/recettes/5609-poulet-a-l-ananas-a-la-mijoteuse)|Recette assez rapide à préparer avec cuisson à la mijoteuse.|
 |Pâté chinois réinventé|0,1031|Geneviève O’Gleman|[Page Web](http://cuisinefuteeparentspresses.telequebec.tv/recettes/22/pate-chinois-reinvente)|Recette intéressante et pouvant être congelée.|
+|Tofu épicé sauce aux arachides|0,08|Jean-Philippe Cyr|[Page Web](https://www.lacuisinedejeanphilippe.com/recipe/tofu-epice-sauce-aux-arachides/)|Recette facile et rapide. Les épices sont optionnels|
 
 *Auteur présumé
 
