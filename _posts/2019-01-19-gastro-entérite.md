@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gastro-Entérite"
-date:   2019-01-31 20:14:00 -0500
+date:   2019-01-19 20:14:00 -0500
 ref: infections
 lang: fr
 ---
