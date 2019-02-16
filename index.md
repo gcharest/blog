@@ -16,6 +16,8 @@ D'ailleurs une note:
 <!---->
 <h2 class="post-list-heading">Ressources</h2>
 
+Les liens de cette section ont pour objectifs d'offrir des outils et des références à des informations que je trouve utiles et pertinentes.
+
 <ul class="post-list">
   {%- for page in site.pages -%}
     {%- if page.ref != 'apropos' -%}
