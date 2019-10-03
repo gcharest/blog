@@ -5,4 +5,31 @@ date:   2019-10-03 20:30:00 -0500
 ref: diabete reseau
 lang: fr
 ---
-Dans mon précédent [billet]({site.baserul}/_posts/2019-02-09-un-village.md), je mentionnais que ça prenait tout un village pour qu'une famille puisse arriver à fonctionner avec un enfant diabétique.
+Wow...
+Dans mon dernier [billet]({{ site.baseurl }}/2019/02/15/équilibre.html) datant d'il y a près de 7 mois, je mentionnais que d'avoir un enfant diabétique nécessite non seulement un excellent réseau d'aide, mais aussi un travail qui nous permet de trouver un équilire.
+Trouver un équilibre devrait être un objectif pour chacune et chacun d'entre nous mais cela prend une toute autre dimension lorsqu'il faut en plus prendre soin d'une personne proche, que ce soit de son enfant ou d'un parent.
+
+Du mois de février à mai 2019, j'ai eu à passer de très nombreuses heures à travailler sur un superbe projet libre, l'[Évaluation de l'incidence algorithmique](https://github.com/canada-ca/aia-eia-js) en compagnie de bons camarades au bureau.
+Ce fût une expérience unique et notre travail est maintenant utilisé un peu partout dans le monde.
+
+Nous avons néanmoins réussi à prendre le temps de quitter pour un voyage en famille avec mes parents pour une semaine.
+En vacances à l'extérieur de la maison, la routine prend le bord et on doit continuellement s'ajuster aux événements.
+
+C'était en effet la première fois que l'on se retrouvait hors de notre environnement connu et où nous avons dû gérer une hypoglycémie sévère (en bas de 3mmol/L et une chute d'énergie drastique).
+Disons que la panique s'installe assez rapidement!
+
+Heureusement, tout s'est finalement bien déroulé en suivant le protocole préétabli par notre équipe médicale.
+
+À mon retour, j'ai dû prendre une sérieuse décision.
+En effet, même si mon rôle de lead pour l'adoption du logiciel libre du Gouvernement Canada était extrêmement valorisant et que j'avais une équipe du tonnerre, la réalité est que la pression a été très élevée personnellement et pour la famille.
+Je devais en effet continuer de faire la promotion du travail ouvert, organiser des conférences, des activités de socialisation et maintenir la communauté du libre à travers le Canada.
+Le tout à un minimum d'une heure et plus de voyagement à l'aller puis au retour chaque jour.
+
+Bref, lorsque l'on m'a approché pour prendre un poste plus près de chez nous, pour un ministère avec des opérations à la grandeur du Canada et avec une équipe composée de gens extraordinaires, je me suis dit que c'était une opportunité de prendre un peu de recul et de recentrer mes efforts sur l'équilibre travail-famille.
+
+J'ai donc commencé mon nouveau poste au début de l'été et le temps des vacances était déjà à nos portes!
+
+Et que dire des vacances avec un enfant diabétique...
+C'est un peu le chaos, surtout avec trois jeunes cocos!
+
+Malgré les défis de ne pas être dans nos affaires, nous avons tous grandement apprécié notre séjour dans les régions de l'est du Québec.
