@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Le temps passe vite!"
-date:   2019-10-03 20:30:00 -0500
-ref: diabete reseau
+ref: temps
 lang: fr
 ---
 Wow...
