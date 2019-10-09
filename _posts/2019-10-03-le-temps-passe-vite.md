@@ -11,7 +11,7 @@ Dans mon dernier [billet]({{ site.baseurl }}/2019/02/15/équilibre.html) datant 
 Du mois de février à mai 2019, j'ai eu à passer de très nombreuses heures à travailler sur un superbe projet libre, l'[Évaluation de l'incidence algorithmique](https://github.com/canada-ca/aia-eia-js) en compagnie d'excellents camarades au bureau.
 Ce fût une expérience unique et notre travail est maintenant utilisé un peu partout dans le monde.
 
-Au niveau de la famille, même avec nos horaires chargées, nous avons réussi à prendre le temps de faire un voyage avec mes parents pour une semaine.
+Au niveau de la famille, même avec nos horaires chargés, nous avons réussi à prendre le temps de faire un voyage avec mes parents pour une semaine.
 En vacances à l'extérieur de la maison, la routine prend le bord et on doit continuellement s'ajuster aux événements.
 
 C'était en effet la première fois que l'on se retrouvait hors de notre environnement connu et où nous avons dû gérer une hypoglycémie sévère (en bas de 3mmol/L et une chute d'énergie drastique).
